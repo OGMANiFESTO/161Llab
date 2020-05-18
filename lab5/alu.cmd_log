@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "/extra/fbwog001/VirtualBox VMs/lab5/alu.xst" -ofn "/extra/fbwog001/VirtualBox VMs/lab5/alu.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim alu.ngc alu_synthesis.v 
+xst -intstyle ise -ifn "/extra/fbwog001/VirtualBox VMs/lab5/alu.xst" -ofn "/extra/fbwog001/VirtualBox VMs/lab5/alu.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim alu.ngc alu_synthesis.v 

@@ -1,0 +1,5 @@
+set -tmpdir "/extra/fbwog001/VirtualBox VMs/lab5/xst/projnav.tmp"
+set -xsthdpdir "/extra/fbwog001/VirtualBox VMs/lab5/xst"
+elaborate
+-ifn .prj
+-ifmt mixed

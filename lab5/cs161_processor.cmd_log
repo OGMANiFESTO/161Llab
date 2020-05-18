@@ -1,0 +1,26 @@
+xst -intstyle ise -ifn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.xst" -ofn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim cs161_processor.ngc alu_synthesis.v 
+xst -intstyle ise -ifn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.xst" -ofn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.syr" 
+xst -intstyle ise -ifn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.xst" -ofn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.syr" 
+xst -intstyle ise -ifn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.xst" -ofn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.syr" 
+xst -intstyle ise -ifn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.xst" -ofn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim cs161_processor.ngc alu_synthesis.v 
+xst -intstyle ise -ifn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.xst" -ofn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim cs161_processor.ngc alu_synthesis.v 
+xst -intstyle ise -ifn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.xst" -ofn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.syr" 
+xst -intstyle ise -ifn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.xst" -ofn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.syr" 
+xst -intstyle ise -ifn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.xst" -ofn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.syr" 
+xst -intstyle ise -ifn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.xst" -ofn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim cs161_processor.ngc alu_synthesis.v 
+xst -intstyle ise -ifn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.xst" -ofn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim cs161_processor.ngc alu_synthesis.v 
+xst -intstyle ise -ifn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.xst" -ofn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.syr" 
+xst -intstyle ise -ifn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.xst" -ofn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.syr" 
+xst -intstyle ise -ifn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.xst" -ofn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.syr" 
+xst -intstyle ise -ifn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.xst" -ofn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.syr" 
+xst -intstyle ise -ifn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.xst" -ofn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim cs161_processor.ngc alu_synthesis.v 
+xst -intstyle ise -ifn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.xst" -ofn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim cs161_processor.ngc alu_synthesis.v 
+xst -intstyle ise -ifn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.xst" -ofn "/extra/fbwog001/VirtualBox VMs/lab5/cs161_processor.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim cs161_processor.ngc alu_synthesis.v 

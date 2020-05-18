@@ -1,0 +1,22 @@
+Running: /opt/Xilinx/14.6/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o /extra/fbwog001/VirtualBox VMs/lab5/cs161_processor_testbench_isim_beh.exe -prj /extra/fbwog001/VirtualBox VMs/lab5/cs161_processor_testbench_beh.prj work.cs161_processor_testbench work.glbl 
+ISim P.68d (signature 0xfbc00daa)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "/extra/fbwog001/VirtualBox VMs/lab5/processor.v" into library work
+Analyzing Verilog file "/extra/fbwog001/VirtualBox VMs/lab5/processor_tb.v" into library work
+Analyzing Verilog file "/opt/Xilinx/14.6/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 94624 KB
+Fuse CPU Usage: 1050 ms
+Compiling module cs161_processor
+Compiling module cs161_processor_testbench
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 3 Verilog Units
+Built simulation executable /extra/fbwog001/VirtualBox VMs/lab5/cs161_processor_testbench_isim_beh.exe
+Fuse Memory Usage: 1179484 KB
+Fuse CPU Usage: 1080 ms
+GCC CPU Usage: 360 ms
